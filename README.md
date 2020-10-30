@@ -2,7 +2,7 @@
 
 ![Todo (1)](https://user-images.githubusercontent.com/68552044/97698691-9407ba00-1ab1-11eb-9d7d-b5824e121b9f.PNG)
 
-Todo is a practice project made from tutorial to React, goal was to learn to use React efficiently and produce a working app.
+Todo is a practice project made from a tutorial to React, goal was to learn to use React efficiently and produce a working app.
 In Todo, user can:
 
 Add new lines to the to-do-list
